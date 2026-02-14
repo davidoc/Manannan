@@ -1,0 +1,25 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Project files (keep: README.md, manannan.png, Manannán_pages_1-20.pdf, Manannán_09-13.txt, Manannán_13-18.txt)
+Manannán.pdf
+extract_*.py
+install_*.sh
+requirements.txt
+localman*.txt
+localmanstart.txt
+Manannán_first5.txt
+Manannán_p9-13*.txt
+Manannán_sample.txt
+Manannán.txt
+
+# Build / install
+gle_uncial_install/
+export_job_20563495/
+*.zip
+
+# OS
+.DS_Store
