@@ -45,7 +45,7 @@ Mí na Nodlag, 1939.
 | Oiḋċe sa Ċoill                        |  98 |
 | An tInneall                           | 110 |
 | Oiḋċe ṫar Oiḋċeanta                   | 124 |
-| ‘Lug Láṁ-ḟada’                        | 137 |
+| ‘Luġ Láṁ-ḟada’                        | 137 |
 | An Troid leis na ‘Cráiḋmí’            | 151 |
 | Díoġaltas                             | 166 |
 | An tÉalóḋ                             | 178 |
