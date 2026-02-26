@@ -29,6 +29,10 @@ The text used old Irish orthography (dot over letter = h after letter etc).
 | 14 | Diogaltas | 166–177 | [PDF](caibidlí/manannan14.pdf) | [Text](caibidlí/manannan14.txt) |
 | 15 | An téalod | 178–188 | [PDF](caibidlí/manannan15.pdf) | [Text](caibidlí/manannan15.txt) |
 
+## How to Help
+
+If you spot errors in the extracted text, please open an issue or submit a pull request. Corrections are especially welcome from Irish speakers.
+
 ## Contents of This Repo
 
 1. **Manannán_pages_1-20.pdf** — PDF, pages 1–20 (full 188-page version exceeds GitHub size limit)
@@ -50,6 +54,4 @@ We are extracting and correcting the text step by step:
 
 Errors are where the extract makes a spelling error . Do not worry about the page numbers and book name being present. These are easy to take out later. And help keep track of where we are in the book for combining the text together later.
 
-## How to Help
 
-If you spot errors in the extracted text, please open an issue or submit a pull request. Corrections are especially welcome from Irish speakers.
