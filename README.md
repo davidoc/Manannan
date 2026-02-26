@@ -7,7 +7,7 @@ It may contain the first use of a Mecha outside of Japan. And the first mention 
 
 The text used old Irish orthography (dot over letter = h after letter etc).
 
-## Table of Contents (CLAR an leabair)
+## CLAR an leabair (Table of Contents)
 
 | # | Chapter | Pages | PDF | Text |
 |---|---------|-------|-----|------|
