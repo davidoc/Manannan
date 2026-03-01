@@ -4,7 +4,7 @@
 
 The book has never been reprinted or translated. This digitisation project aims to make the book more accessible and widely read. The text used the old [Irish orthography](https://en.wikipedia.org/wiki/Irish_orthography) (dot over the letter = h after the letter, etc.).
 
-![Manannán cover](manannan.png)
+![Manannán cover](manannan.jpg)
 
 ## Contents of This Repo
 
