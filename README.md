@@ -55,7 +55,7 @@ Errors are where the extract makes a spelling error. Do not worry about the page
 
 ## Formatting
 
-We are lightly formatting the text files in Markdown format. 
+We are lightly formatting the text files in [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github) format. 
 
 * Keep original line breaks to make it easier to compare side by side with PDF
 * Rejoin words that were hyphenated
