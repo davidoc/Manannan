@@ -51,6 +51,18 @@ We are extracting and correcting the text step by step:
 
 ## Errors
 
-Errors are where the extract makes a spelling error . Do not worry about the page numbers and book name being present. These are easy to take out later. And help keep track of where we are in the book for combining the text together later.
+Errors are where the extract makes a spelling error. Do not worry about the page numbers and book name being present. These are easy to take out later and help keep track of where we are in the book for combining the text together later.
+
+## Formatting
+
+We are lightly formatting the text files in Markdown format. 
+
+* Keep original line breaks to make it easier to compare side by side with PDF
+* Rejoin words that were hyphenated
+* Leave a blank line between paragraphs
+* Remove spaces between punctuation and words e.g. `“ An mar sin é ? ” arsa an garsún` becomes `“An mar sin é?” arsa an garsún`.
+
+Mark page numbers  with a reference like this `[l.31]: #` for *leathanach 31*. This is a Markdown reference that will be hidden if the text is converted to HTML or ePUB. Leave a blank line before the page number reference. By convention, a blank line *after* the page number reference means that the following text is a new paragraph; no blank line after means that the following text runs on from the previous page. We are not currently using these references but they are useful to keep track when editing and would allow us to include print edition page numbers in output formats.
+
 
 
