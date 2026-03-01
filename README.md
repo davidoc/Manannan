@@ -33,12 +33,8 @@ The book has never been reprinted or translated. This digitisation project aims 
 If you spot errors in the extracted text, please open an issue or submit a pull request. Corrections are especially welcome from Irish speakers.
 
 ## Plan
-
-We are extracting and correcting the text step by step:
-
-1. **Pages 9–13** — Done. Hand-corrected from OCR.
-2. **Pages 13–18** — Extracted
-3. **Later** — Once we have further found errors in these sections we can use them to correct later pages. For example if the extract mistook ' mor ' for ' mór ' it will make the mistake again later. And we will have to easily look for and fix these errors in later chapters. Because of that fixing initial errors drastically reduces errors to find in later chapters.
+1. Accurate transcription of the PDF in old orthography
+2. Adapt to new orthography and An Caighdeán Oifigiúil
 
 ## Errors
 
