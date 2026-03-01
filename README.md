@@ -4,13 +4,13 @@
 
 The book has never been reprinted or translated. This digitisation project aims to make the book more accessible and widely read. The text used the old [Irish orthography](https://en.wikipedia.org/wiki/Irish_orthography) (dot over the letter = h after the letter, etc.).
 
-![Manannán cover](manannan.jpg)
+![Manannán cover](assets/manannan.jpg)
 
 ## Clár an Leabhair (Table of Contents)
 
 | # | Chapter | |Pages | PDF | Text |
 |---|---------|-|------|-----|------|
-|   | Cover   | |      | [PNG](manannan.png) | |
+|   | Cover   | |      | [PNG](assets/manannan.png) | |
 | 0 | Front matter                      | | 1–8 | [PDF](caibidlí/manannan00.pdf) | [Text](caibidlí/manannan00.txt) |
 | 1 | Pláinéid ná Feaca Súil Duine riaṁ | _Pláinéid nach bhFaca Súil Duine riamh_ | 9–17 | [PDF](caibidlí/manannan01.pdf) | [Text](caibidlí/manannan01.txt "A Planet No Human Eye Had Ever Seen Before") |
 | 2 | An Raḋarc tríd an gCiandracán     | _An Radharc tríd an gCiandracán_| 18–30 | [PDF](caibidlí/manannan02.pdf) | [Text](caibidlí/manannan02.txt "The View through the Telescope") | 
