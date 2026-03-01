@@ -4,13 +4,13 @@
 
 The book has never been reprinted or translated. This digitisation project aims to make the book more accessible and widely read. The text used the old [Irish orthography](https://en.wikipedia.org/wiki/Irish_orthography) (dot over the letter = h after the letter, etc.).
 
-![Manannán cover](manannan.jpg)
+![Manannán cover](assets/manannan.jpg)
 
 ## Clár an Leabhair (Table of Contents)
 
 | # | Chapter | |Pages | PDF | Text |
 |---|---------|-|------|-----|------|
-|   | Cover   | |      | [PNG](manannan.png) | |
+|   | Cover   | |      | [PNG](assets/manannan.png) | |
 | 0 | Front matter                      | | 1–8 | [PDF](caibidlí/manannan00.pdf) | [Text](caibidlí/manannan00.txt) |
 | 1 | Pláinéid ná Feaca Súil Duine riaṁ | _Pláinéid nach bhFaca Súil Duine riamh_ | 9–17 | [PDF](caibidlí/manannan01.pdf) | [Text](caibidlí/manannan01.txt "A Planet No Human Eye Had Ever Seen Before") |
 | 2 | An Raḋarc tríd an gCiandracán     | _An Radharc tríd an gCiandracán_| 18–30 | [PDF](caibidlí/manannan02.pdf) | [Text](caibidlí/manannan02.txt "The View through the Telescope") | 
@@ -32,22 +32,9 @@ The book has never been reprinted or translated. This digitisation project aims 
 
 If you spot errors in the extracted text, please open an issue or submit a pull request. Corrections are especially welcome from Irish speakers.
 
-## Contents of This Repo
-
-1. **Manannán_pages_1-20.pdf** — PDF, pages 1–20 (full 188-page version exceeds GitHub size limit)
-2. **Manannán_09-13.txt** — Extracted and corrected text, pages 9–13
-3. **Manannán_13-18.txt** — Extracted and corrected text, pages 13–18
-
-
-Pages 9–18 cover the start the first chapter (Pláinéid na feaca Súil Duine riamh). Page 13 appears in both files as a transition.
-
 ## Plan
-
-We are extracting and correcting the text step by step:
-
-1. **Pages 9–13** — Done. Hand-corrected from OCR.
-2. **Pages 13–18** — Extracted
-3. **Later** — Once we have further found errors in these sections we can use them to correct later pages. For example if the extract mistook ' mor ' for ' mór ' it will make the mistake again later. And we will have to easily look for and fix these errors in later chapters. Because of that fixing initial errors drastically reduces errors to find in later chapters.
+1. Accurate transcription of the PDF in old orthography
+2. Adapt to new orthography and An Caighdeán Oifigiúil
 
 ## Errors
 
@@ -63,6 +50,25 @@ We are lightly formatting the text files in Markdown format.
 * Remove spaces between punctuation and words e.g. `“ An mar sin é ? ” arsa an garsún` becomes `“An mar sin é?” arsa an garsún`.
 
 Mark page numbers  with a reference like this `[l.31]: #` for *leathanach 31*. This is a Markdown reference that will be hidden if the text is converted to HTML or ePUB. Leave a blank line before the page number reference. By convention, a blank line *after* the page number reference means that the following text is a new paragraph; no blank line after means that the following text runs on from the previous page. We are not currently using these references but they are useful to keep track when editing and would allow us to include print edition page numbers in output formats.
+
+
+## Contents of This Repo
+
+### Assets
+- **Manannán_pages_1-20.pdf** — PDF, pages 1–20 (full 188-page version exceeds GitHub size limit)
+- **Manannán_09-13.txt** — Extracted and corrected text, pages 9–13
+- **Manannán_13-18.txt** — Extracted and corrected text, pages 13–18
+- **Manannán_15-20_tg.txt** pages 15-20
+- **Manannán.jpg** JPEG image of the cover
+- **Manannán.png** Loseless high resolution image of the cover
+
+Pages 9–18 cover the start the first chapter (Pláinéid na feaca Súil Duine riamh). Page 13 appears in both files as a transition.
+
+### caibidlí
+- The chapters as raw PDF scans and text
+
+### epub
+- Script and files to build an EPUB
 
 
 
