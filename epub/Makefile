@@ -1,5 +1,5 @@
-chapters = $(wildcard ../caibidlí/*.txt)
+chapters = $(wildcard ../caibidlí/*.md)
 
-Manannán.epub: title.txt epub.css $(chapters)
-	pandoc -o Manannán.epub -c epub.css title.txt \
+Manannán.epub: title.md epub.css $(chapters)
+	pandoc -o Manannán.epub -c epub.css title.md \
 	$(chapters)
