@@ -8,25 +8,25 @@ The book has never been reprinted or translated. This digitisation project aims 
 
 ## Clár an Leabhair (Table of Contents)
 
-| # | Chapter | |Pages | PDF | Text |
-|---|---------|-|------|-----|------|
-|   | Cover   | |      | [PNG](assets/manannan.png) | |
-| 0 | Front matter                      | | 1–8 | [PDF](caibidlí/manannan00.pdf) | [Text](caibidlí/manannan00.md) |
-| 1 | Pláinéid ná Feaca Súil Duine riaṁ | _Pláinéid nach bhFaca Súil Duine riamh_ | 9–17 | [PDF](caibidlí/manannan01.pdf) | [Text](caibidlí/manannan01.md "A Planet No Human Eye Had Ever Seen Before") |
-| 2 | An Raḋarc tríd an gCiandracán     | _An Radharc tríd an gCiandracán_| 18–30 | [PDF](caibidlí/manannan02.pdf) | [Text](caibidlí/manannan02.md "The View through the Telescope") | 
-| 3 | An Turas go Manannán              | _An Turas go Manannán_ | 31–43 | [PDF](caibidlí/manannan03.pdf) | [Text](caibidlí/manannan03.md "The Journey to Manannán") |
-| 4 | Manannán                          | _Manannán_ | 44–52 | [PDF](caibidlí/manannan04.pdf) | [Text](caibidlí/manannan04.md "Manannán") |
-| 5 | Muintear Manannáin                | _Muintir Manannáin_ |53–67 | [PDF](caibidlí/manannan05.pdf) | [Text](caibidlí/manannan05.md "The People of Manannán") |
-| 6 | Na ‘Cráiḋmí’                      | _Na ‘Cráidhmí’_ | 68–75 | [PDF](caibidlí/manannan06.pdf) | [Text](caibidlí/manannan06.md "The Cráidhmí") |
-| 7 | An tÁrd-Ṁáiġistir                 | _An tÁrd-Mháistir_ | 76–86 | [PDF](caibidlí/manannan07.pdf) | [Text](caibidlí/manannan07.md "The High-Master") |
-| 8 | An Priosún                        | _An Priosún_ | 87–97 | [PDF](caibidlí/manannan08.pdf) | [Text](caibidlí/manannan08.md "The Prison") |
-| 9 | Oiḋċe sa Ċoill                    |  _Oíche sa Choill_ | 98–109 | [PDF](caibidlí/manannan09.pdf) | [Text](caibidlí/manannan09.md "The Night in the Woods") |
-| 10 | An tInneall                      | _An tInneall_ | 110–123 | [PDF](caibidlí/manannan10.pdf) | [Text](caibidlí/manannan10.md "The Engine") |
-| 11 | Oiḋċe ṫar Oiḋċeanta              | _Oíche thar Oícheanta_ | 124–136 | [PDF](caibidlí/manannan11.pdf) | [Text](caibidlí/manannan11.md "The Night of all Nights") |
-| 12 | ‘Luġ Láṁ-ḟada’                   | _‘Lugh Lámhfhada’_ |  137–150 | [PDF](caibidlí/manannan12.pdf) | [Text](caibidlí/manannan12.md "Lugh of the Long Arm") |
-| 13 | An Tróid leis na ‘Cráiḋmí’       | _An Tróid leis na ‘Cráidhmí’_ | 151–165 | [PDF](caibidlí/manannan13.pdf) | [Text](caibidlí/manannan13.md "The Fight with the Cráidhmí") |
-| 14 | Díoġaltas                        | _Díoltas_ | 166–177 | [PDF](caibidlí/manannan14.pdf) | [Text](caibidlí/manannan14.md "Revenge") |
-| 15 | An tÉalóḋ                        | _An tÉalú_ | 178–188 | [PDF](caibidlí/manannan15.pdf) | [Text](caibidlí/manannan15.md "The Escape") |
+| #  | Chapter                                                                                                                 |                                         |Pages    | PDF                            |
+|----|-------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|---------|--------------------------------|
+|    | Cover                                                                                                                   |                                         |         | [PNG](assets/manannan.png)     |
+| 0  | [Front matter](caibidlí/old-orthography/manannan00.md)                                                                  |                                         | 1–8     | [PDF](caibidlí/manannan00.pdf) |
+| 1  | [Pláinéid ná Feaca Súil Duine riaṁ](caibidlí/old-orthography/manannan01.md "A Planet No Human Eye Had Ever Seen Before")| _Pláinéid nach bhFaca Súil Duine riamh_ | 9–17    | [PDF](caibidlí/manannan01.pdf) |  
+| 2  | [An Raḋarc tríd an gCiandracán](caibidlí/old-orthography/manannan02.md "The View through the Telescope")                | _An Radharc tríd an gCiandracán_        | 18–30   | [PDF](caibidlí/manannan02.pdf) | 
+| 3  | [An Turas go Manannán](caibidlí/old-orthography/manannan03.md "The Journey to Manannán")                                | _An Turas go Manannán_                  | 31–43   | [PDF](caibidlí/manannan03.pdf) |
+| 4  | [Manannán](caibidlí/old-orthography/manannan04.md "Manannán")                                                           | _Manannán_                              | 44–52   | [PDF](caibidlí/manannan04.pdf) |
+| 5  | [Muintear Manannáin](caibidlí/old-orthography/manannan05.md "The People of Manannán")                                   | _Muintir Manannáin_                     | 53–67   | [PDF](caibidlí/manannan05.pdf) |
+| 6  | [Na ‘Cráiḋmí’](caibidlí/old-orthography/manannan06.md "The Cráidhmí")                                                   | _Na ‘Cráidhmí’_                         | 68–75   | [PDF](caibidlí/manannan06.pdf) |
+| 7  | [An tÁrd-Ṁáiġistir](caibidlí/old-orthography/manannan07.md "The High-Master")                                           | _An tÁrd-Mháistir_                      | 76–86   | [PDF](caibidlí/manannan07.pdf) |
+| 8  | [An Priosún](caibidlí/old-orthography/manannan08.md "The Prison")                                                       | _An Priosún_                            | 87–97   | [PDF](caibidlí/manannan08.pdf) |
+| 9  | [Oiḋċe sa Ċoill](caibidlí/old-orthography/manannan09.md "The Night in the Woods")                                       |  _Oíche sa Choill_                      | 98–109  | [PDF](caibidlí/manannan09.pdf) |
+| 10 | [An tInneall](caibidlí/old-orthography/manannan10.md "The Engine")                                                      | _An tInneall_                           | 110–123 | [PDF](caibidlí/manannan10.pdf) |
+| 11 | [Oiḋċe ṫar Oiḋċeanta](caibidlí/old-orthography/manannan11.md "The Night of all Nights")                                 | _Oíche thar Oícheanta_                  | 124–136 | [PDF](caibidlí/manannan11.pdf) |
+| 12 | [‘Luġ Láṁ-ḟada’](caibidlí/old-orthography/manannan12.md "Lugh of the Long Arm")                                         | _‘Lugh Lámhfhada’_                      | 137–150 | [PDF](caibidlí/manannan12.pdf) |
+| 13 | [An Tróid leis na ‘Cráiḋmí’ ](caibidlí/old-orthography/manannan13.md "The Fight with the Cráidhmí")                     | _An Tróid leis na ‘Cráidhmí’_           | 151–165 | [PDF](caibidlí/manannan13.pdf) |
+| 14 | [Díoġaltas](caibidlí/old-orthography/manannan14.md "Revenge")                                                           | _Díoltas_                               | 166–177 | [PDF](caibidlí/manannan14.pdf) | 
+| 15 | [An tÉalóḋ](caibidlí/old-orthography/manannan15.md "The Escape")                                                        | _An tÉalú_                              | 178–188 | [PDF](caibidlí/manannan15.pdf) |
 
 ## How to Help
 
