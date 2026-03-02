@@ -1,5 +1,8 @@
-chapters = $(wildcard ../caibidlí/*.md)
+old_chapters = $(wildcard ../caibidlí/old-orthography/*.md)
 
-Manannán.epub: title.md epub.css $(chapters)
+Manannán.epub: title.md epub.css $(old_chapters)
 	pandoc -o Manannán.epub -c epub.css title.md \
-	$(chapters)
+	$(old_chapters)
+
+clean:
+	rm Manannán.epub
