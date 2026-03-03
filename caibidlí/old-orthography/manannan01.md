@@ -181,8 +181,8 @@ cruinn beaċt agus a ḋéanfainn féin iad.”
 agus an dá ṡúil ag dul amaċ as a ċeann le hiongantas
 an scéil.
 
-“Táid go leir ann go cruinn is go beaċt, arsa an
-réaltóir arís. Aċ tá rud ar an gcairt sin a ċuir
+“Táid go leir ann go cruinn is go beaċt,” arsa an
+réaltóir arís. “Aċ tá rud ar an gcairt sin a ċuir
 iongantas orm-sa an ċéad uair a ċonnac í. Tá pláinéid
 uirṫe de breis ar na cinn atá ar eolas againne.”
 
@@ -206,8 +206,8 @@ n-a eiteallán.”
 “náċ foláir nó ḃí an ṗláinéid ann an uair sin. Aċ má
 ḃí sí ann an uair sin caḋ ’na ṫaoḃ ná fuil sí ann anois?
 B’ṡin í an ċeist. B’ṡin í an aḋb a ḃain codlaḋ na
-hoiḋċe ḋíom-sa ar feaḋ i ḃfadu B’é toraḋ mo stuidéir
-agus toraḋ mo ṁaċtnaiṁ ar an gceist’go raḃas deiṁnigṫeaċ 
+hoiḋċe ḋíom-sa ar feaḋ i ḃfad. B’é toraḋ mo stuidéir
+agus toraḋ mo ṁaċtnaiṁ ar an gceist go raḃas deiṁnigṫeaċ 
 de go raiḃ an ṗláinéid sa spéir san áit ina raiḃ
 sí breacuiṫe síos ag an sean-eolgaċ Éigipteaċ, aċ ar ċuma
 éigin náċ féidir í ḟeiscint. Táim ag gaḃáil do’n ċeist le
@@ -237,7 +237,7 @@ hÉigipte anallód, b’ḟéidir.”
 Leis sin do ṗreab garsún amaċ ó’n dtaoḃ ṫiar de’n
 scáileán a ḃí treasna ar an ḃfuinneóig.
 
-“Ó, a ḋaid,” ar seisean, leig dom-sa í Feiscint."
+“Ó, a ḋaid,” ar seisean, “leig dom-sa í Feiscint."
 
 Do baineaḋ geit as an mbeirt eile aċ do leag an
 realtóir a láṁ ar ċeann an ġarsúin agus do laḃair go
@@ -254,7 +254,7 @@ deas liom ḃeiṫ ag féaċaint orṫa agus á n-aiṫniúint.”
 “Is dual aṫar duit suim a ḃeiṫ agat ins na réilṫíní,”
 arsa Seán Ó Maolċaṫa agus do ġáir sé leis.
 
-“Ḃí oiread san suime agam ionn.ta,” arsa an garsún,
+“Ḃí oiread san suime agam ionnta,” arsa an garsún,
 “gur ṡuiḋeas sa ċaṫaoir taoḃ ṫiar de’n scáileán ag
 féaċaint orṫa gur ṫuit mo ċodlaḋ orm. Do ġlór-sa a
 ḋúisiġ me, a ḋaid, agus tú ag innsint i dtaoḃ na pláinéide
