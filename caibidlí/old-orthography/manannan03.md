@@ -72,7 +72,7 @@ agus ḃí teipiṫe glan orṫa aon ḃlúire eolais d’ḟáil ó
 Ṡeán féin i dtaoḃ an turais ar a raiḃ socair aige.
 
 “As a ṁeaḃair atá sé,” arsa duine de sna giollaí
-leis an gcuid eile aca. “Gealt gan ċiall a ċeap an.
+leis an gcuid eile aca. “Gealt gan ċiall a ċeap an
 t-eiteallán san. Stóras ráiṫe ann de ḃiaḋ agus de
 ḋiġ, agus gan sliġe ins na humair d’oiread petroil agus
 a ḃéarfaḋ as so go Lonndan Ṡasana é.”
@@ -149,7 +149,7 @@ leaḃar cúntais gur ḟágamar an t-aer-ṗort ar a seaċt a
 ċlog ar an gceaṫrú lá déag de’n ṁí.”
 
 “Déanfad san a ḋuine uasail,” arsa an giolla.
-“Slán liḃ agus go n-éiriġiḋ an turas liḃ.’
+“Slán liḃ agus go n-éiriġiḋ an turas liḃ.”
 
 Isteaċ leis an dtriúr aca i gcábán an eitealláin.
 Do daingniġeaḋ an doras agus do scaoileaḋ na hinnill
@@ -314,7 +314,7 @@ annso tú?”
 [l.40]: #
 
 “Ḃí ḟios agam ná leigfeá ḋom dul liḃ go Manannán,”
-arsa an garsún. “agus ní raiḃ aon tsliġe eile agam
+arsa an garsún, “agus ní raiḃ aon tsliġe eile agam
 ċuige, aċ dul i ḃfolaḃ ins na súsaí, go dtí go mbeaḋ
 sé ró-ḋéanaċ agat mé ċur aḃaile.”
 
@@ -422,6 +422,7 @@ ait oireaṁnaċ ċun túirlinge.”
 [l.43]: #
 
 “Tá caṫair annsan ṫíos, féaċ,” arsa Máirtín.
+
 D’féaċ Brian síos uaiḋ agus ċonnaic túir agus
 spuaiceanna na caṫraċ ag glioscarnaiġ sa tsolas ṗearlaċ
 a ḃí ar fuaid na háite.
@@ -433,7 +434,7 @@ a Ḋaid. Féaċ an ċaṫair áluinn atá aca.”
 “aċ níl ḟios againn fós cad é an saġas iad.”
 
 “Tá maċaire réiḋ annsúd, taoḃ ṫall de’n ċaṫair,”
-arsa Máirṫín, “dféadfaimís túirling . ann gan aon
+arsa Máirṫín, “d’ḟéadfaimís túirling ann gan aon
 duaḋ.”
 
 D’ísliġ Seán ana t-eiteallán ar an bpáirc. Do ġluais
